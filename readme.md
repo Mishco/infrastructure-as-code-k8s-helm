@@ -24,7 +24,7 @@ But what if that's still not enough, you have a complex application running on k
 
 ## Architecture Overview for one application
 
-![architecture-overview](media/img/infrastructure-as-code-helm-k8s-azure_2.png)
+![architecture-overview](infrastructure-as-code-helm-k8s-azure_2.png)
 
 ## Jump into helm charts  
 
